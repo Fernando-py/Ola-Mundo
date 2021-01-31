@@ -3,4 +3,4 @@
 
 Repositorio criado durante uma aula ao vivo!
 
-Esssa linha eu adicionei diretamento no site! QUE IMPRESSIONANTE!
+Esssa linha eu adicionei diretamento no *site!* **QUE IMPRESSIONANTE!**
